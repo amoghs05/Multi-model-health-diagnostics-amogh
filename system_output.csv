@@ -1,0 +1,2 @@
+test_name,value_pred,unit,status_pred,patient_id,patterns,risk_level,risk_score,summary
+HbA1c,8.5,%,Unknown,07c62f4b,"[{'pattern': 'No significant abnormalities', 'confidence': 1.0}]",Low,0,All evaluated parameters are within normal limits.

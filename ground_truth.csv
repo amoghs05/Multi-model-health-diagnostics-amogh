@@ -1,0 +1,24 @@
+patient_id,test_name,value_true,status_true,patterns_true,risk_level_true
+4bc6dac7,Hemoglobin,14.5,Normal,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
+4bc6dac7,RBC Count,4.79,Unknown,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
+4bc6dac7,Hematocrit,43.3,Unknown,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
+4bc6dac7,MCV,90.3,Unknown,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
+4bc6dac7,MCH,30.2,Unknown,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
+4bc6dac7,MCHC,33.4,Unknown,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
+4bc6dac7,RDW CV,13.6,Unknown,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
+4bc6dac7,WBC Count H10570 /cmm,4000.0,Normal,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
+4bc6dac7,Neutrophils Microscopic,73.0,Unknown,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
+4bc6dac7,Lymphocytes Microscopic,19.0,Unknown,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
+4bc6dac7,Eosinophils,2.0,Unknown,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
+4bc6dac7,Monocytes,6.0,Unknown,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
+4bc6dac7,Basophils,0.0,Unknown,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
+4bc6dac7,Platelet Count,150000.0,Normal,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
+4bc6dac7,MPV H,14.0,Unknown,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
+4bc6dac7,ESR,7.0,Unknown,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
+4bc6dac7,HbA1c H,7.1,Unknown,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
+4bc6dac7,- Total haemoglobin A1 c is continuously synthesized in the red blood cell throught its,120.0,High,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
+4bc6dac7,HBsAg,0.29,Unknown,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
+4bc6dac7,Hb A L,84.4,Unknown,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
+4bc6dac7,Hb A2,2.8,Unknown,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
+4bc6dac7,Foetal Hb,0.3,Unknown,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
+4bc6dac7,carriers. Linearity range of HbF is,1.0,Unknown,"[{'pattern': 'Abnormal parameters detected', 'confidence': 0.5}]",Unknown
