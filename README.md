@@ -225,7 +225,6 @@ http://localhost:8501
 | Pattern Similarity      | High overlap                  |
 | Risk Prediction         | Consistent clinical reasoning |
 
-
 🧩 Technologies Used
 
 Python
